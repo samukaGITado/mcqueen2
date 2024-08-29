@@ -1,0 +1,46 @@
+.imagem{
+ width: 100%
+}
+
+body{
+ margin: 0;
+ background-color: red;
+}
+
+.navbar{
+ background-color: #ff51008e;
+ padding: 10px;
+}
+
+.navbar ul{
+ margin: 0;
+ display: flex;
+}
+
+.links{
+ margin-right: 400px;
+ list-style: none;
+ text-transform: uppercase;
+}
+
+a{
+ color: white;
+ font-weight: bold;
+ text-decoration: none;
+ cursor: pointer;
+}
+
+h1,p,footer{
+ color: white;
+ font-size: x-large;
+}
+
+.sobre{
+ margin: 20px;
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+
+footer{
+ text-align: center;
+}
